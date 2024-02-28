@@ -5,6 +5,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{D18544AD-5C51-4C17-95E8-E1ED199ACA8E}|Kodlama\\Kodlama.csproj|c:\\users\\user-pc\\desktop\\io\\2. g\u00FCn \u00F6dev 3\\kodlama\\kodlama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D18544AD-5C51-4C17-95E8-E1ED199ACA8E}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18544AD-5C51-4C17-95E8-E1ED199ACA8E}|Kodlama\\Kodlama.csproj|C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\kodlama\\business\\abstracts\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18544AD-5C51-4C17-95E8-E1ED199ACA8E}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\business\\abstracts\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18544AD-5C51-4C17-95E8-E1ED199ACA8E}|Kodlama\\Kodlama.csproj|C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\kodlama\\dataaccess\\abstracts\\iinstructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18544AD-5C51-4C17-95E8-E1ED199ACA8E}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\dataaccess\\abstracts\\iinstructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18544AD-5C51-4C17-95E8-E1ED199ACA8E}|Kodlama\\Kodlama.csproj|C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\kodlama\\dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18544AD-5C51-4C17-95E8-E1ED199ACA8E}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18544AD-5C51-4C17-95E8-E1ED199ACA8E}|Kodlama\\Kodlama.csproj|c:\\users\\user-pc\\desktop\\io\\2. g\u00FCn \u00F6dev 3\\kodlama\\kodlama\\entities\\concretes\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18544AD-5C51-4C17-95E8-E1ED199ACA8E}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\entities\\concretes\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18544AD-5C51-4C17-95E8-E1ED199ACA8E}|Kodlama\\Kodlama.csproj|c:\\users\\user-pc\\desktop\\io\\2. g\u00FCn \u00F6dev 3\\kodlama\\kodlama\\entities\\concretes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18544AD-5C51-4C17-95E8-E1ED199ACA8E}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\entities\\concretes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18544AD-5C51-4C17-95E8-E1ED199ACA8E}|Kodlama\\Kodlama.csproj|c:\\users\\user-pc\\desktop\\io\\2. g\u00FCn \u00F6dev 3\\kodlama\\kodlama\\dataaccess\\concretes\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18544AD-5C51-4C17-95E8-E1ED199ACA8E}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\dataaccess\\concretes\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18544AD-5C51-4C17-95E8-E1ED199ACA8E}|Kodlama\\Kodlama.csproj|c:\\users\\user-pc\\desktop\\io\\2. g\u00FCn \u00F6dev 3\\kodlama\\kodlama\\dataaccess\\abstracts\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18544AD-5C51-4C17-95E8-E1ED199ACA8E}|Kodlama\\Kodlama.csproj|solutionrelative:kodlama\\dataaccess\\abstracts\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +42,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\Kodlama\\Entities\\Concretes\\Category.cs",
+              "RelativeDocumentMoniker": "Kodlama\\Entities\\Concretes\\Category.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\Kodlama\\Entities\\Concretes\\Category.cs",
+              "RelativeToolTip": "Kodlama\\Entities\\Concretes\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T20:38:28.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\Kodlama\\DataAccess\\Concretes\\CategoryDal.cs",
+              "RelativeDocumentMoniker": "Kodlama\\DataAccess\\Concretes\\CategoryDal.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\Kodlama\\DataAccess\\Concretes\\CategoryDal.cs",
+              "RelativeToolTip": "Kodlama\\DataAccess\\Concretes\\CategoryDal.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwC0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T20:37:09.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\Kodlama\\DataAccess\\Abstracts\\ICategoryDal.cs",
+              "RelativeDocumentMoniker": "Kodlama\\DataAccess\\Abstracts\\ICategoryDal.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\Kodlama\\DataAccess\\Abstracts\\ICategoryDal.cs",
+              "RelativeToolTip": "Kodlama\\DataAccess\\Abstracts\\ICategoryDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T20:37:06.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\Kodlama\\Entities\\Concretes\\Instructor.cs",
+              "RelativeDocumentMoniker": "Kodlama\\Entities\\Concretes\\Instructor.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\Kodlama\\Entities\\Concretes\\Instructor.cs",
+              "RelativeToolTip": "Kodlama\\Entities\\Concretes\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T20:35:51.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,9 +108,48 @@
               "RelativeDocumentMoniker": "Kodlama\\Program.cs",
               "ToolTip": "C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\Kodlama\\Program.cs",
               "RelativeToolTip": "Kodlama\\Program.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAASwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T22:15:34.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstructorManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\Kodlama\\Business\\Abstracts\\InstructorManager.cs",
+              "RelativeDocumentMoniker": "Kodlama\\Business\\Abstracts\\InstructorManager.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\Kodlama\\Business\\Abstracts\\InstructorManager.cs",
+              "RelativeToolTip": "Kodlama\\Business\\Abstracts\\InstructorManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwCQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T22:30:05.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IInstructorDal.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\Kodlama\\DataAccess\\Abstracts\\IInstructorDal.cs",
+              "RelativeDocumentMoniker": "Kodlama\\DataAccess\\Abstracts\\IInstructorDal.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\Kodlama\\DataAccess\\Abstracts\\IInstructorDal.cs",
+              "RelativeToolTip": "Kodlama\\DataAccess\\Abstracts\\IInstructorDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T22:20:49.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\Kodlama\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "RelativeDocumentMoniker": "Kodlama\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\Desktop\\io\\2. G\u00FCn \u00D6dev 3\\Kodlama\\Kodlama\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "RelativeToolTip": "Kodlama\\DataAccess\\Abstracts\\ICourseDal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T13:37:03.195Z",
+              "WhenOpened": "2024-02-27T22:20:35.899Z",
               "EditorCaption": ""
             }
           ]

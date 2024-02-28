@@ -1,0 +1,7 @@
+C:\Users\USER-PC\Desktop\io\2. Gün Ödev 3\Kodlama\Kodlama\bin\Debug\Kodlama.exe.config
+C:\Users\USER-PC\Desktop\io\2. Gün Ödev 3\Kodlama\Kodlama\bin\Debug\Kodlama.exe
+C:\Users\USER-PC\Desktop\io\2. Gün Ödev 3\Kodlama\Kodlama\bin\Debug\Kodlama.pdb
+C:\Users\USER-PC\Desktop\io\2. Gün Ödev 3\Kodlama\Kodlama\obj\Debug\Kodlama.csproj.AssemblyReference.cache
+C:\Users\USER-PC\Desktop\io\2. Gün Ödev 3\Kodlama\Kodlama\obj\Debug\Kodlama.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\io\2. Gün Ödev 3\Kodlama\Kodlama\obj\Debug\Kodlama.exe
+C:\Users\USER-PC\Desktop\io\2. Gün Ödev 3\Kodlama\Kodlama\obj\Debug\Kodlama.pdb

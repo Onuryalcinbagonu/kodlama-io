@@ -43,6 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Business\Abstracts\CategoryManager.cs" />
+    <Compile Include="Business\Abstracts\CourseManager.cs" />
+    <Compile Include="Business\Abstracts\InstructorManager.cs" />
+    <Compile Include="DataAccess\Abstracts\IInstructorDal.cs" />
+    <Compile Include="DataAccess\Abstracts\ICategoryDal.cs" />
+    <Compile Include="DataAccess\Abstracts\ICourseDal.cs" />
+    <Compile Include="DataAccess\Concretes\CategoryDal.cs" />
+    <Compile Include="DataAccess\Concretes\CourseDal.cs" />
+    <Compile Include="DataAccess\Concretes\InstructorDal.cs" />
+    <Compile Include="Entities\Concretes\BaseEntity.cs" />
+    <Compile Include="Entities\Concretes\Category.cs" />
+    <Compile Include="Entities\Concretes\Instructor.cs" />
+    <Compile Include="Entities\Concretes\Course.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -50,9 +63,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Business\" />
-    <Folder Include="DataAccess\" />
-    <Folder Include="Entities\" />
+    <Folder Include="Business\Concretes\" />
+    <Folder Include="Entities\Abstracts\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
